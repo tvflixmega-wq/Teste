@@ -1,0 +1,1 @@
+:root{--accent:#8a2be2}body{background:linear-gradient(120deg,#0f172a,#2e1065)}.topbar{border-bottom:2px solid var(--accent)}button{background:var(--accent);color:#fff;border:0;padding:8px 12px}
